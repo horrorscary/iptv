@@ -1,6 +1,7 @@
 {
   "button": {
     "label": "Power",
-    "state": 0
+    "state": 0,
+    "pricingnormal"
   }
 }
